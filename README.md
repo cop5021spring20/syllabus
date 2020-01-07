@@ -57,7 +57,7 @@ This course combines both a traditional, lecture-style course with seminar-style
 
 ## Schedule
 
-Class: Tuesday/Thursday 7:30PM-8:50PM CB2 O106
+Class: Tuesday/Thursday 12:00-13:15 HPA1-O110
 
 Dates: 01/07-04/16
 
