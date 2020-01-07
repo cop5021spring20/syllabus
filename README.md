@@ -84,10 +84,10 @@ No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break)
 - 20% Homework and Quizzes
   - Homework from test book
   - In-class quizzes
-- 40% Readings and Presentations
+- 45% Readings and Presentations
   - Paper presentations
   - Summaries of readings
-- 40% Semester-Long Project
+- 35% Project
   - Implementation
   - Presentation
 
