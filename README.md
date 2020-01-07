@@ -34,20 +34,20 @@ This course combines both traditional lecture-style graduate coursework with sem
 
 ### Online Textbook
 
-- Static Program Analysis by Anders Møller and Michael I. Schwartzbach. (Book and slides)[https://cs.au.dk/~amoeller/spa/].
+- Static Program Analysis by Anders Møller and Michael I. Schwartzbach. [Book and slides](https://cs.au.dk/~amoeller/spa/).
 
 ### Academic Publications
 
-- (ACM Digital Library)[https://dl.acm.org/]
-- (IEEE Xplore)[https://ieeexplore.ieee.org/Xplore/home.jsp]
-- (Cite Seer X)[https://citeseerx.ist.psu.edu/index;jsessionid=81E5F613E47501F8125E42F61B7940DD]
-- (ACM SIGPLAN OpenTOC)[http://www.sigplan.org/OpenTOC/]
-- (ACM SIGSOFT OpenTOC)[https://www.sigsoft.org/resources/opentoc.html]
+- [ACM Digital Library](https://dl.acm.org/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [Cite Seer X](https://citeseerx.ist.psu.edu/index;jsessionid=81E5F613E47501F8125E42F61B7940DD)
+- [ACM SIGPLAN OpenTOC](http://www.sigplan.org/OpenTOC/)
+- [ACM SIGSOFT OpenTOC](https://www.sigsoft.org/resources/opentoc.html)
 
 ### Empirical Evaluation Resources
 
-- (ACM SIGPLAN Empirical Evaluation Guidelines)[https://sigplan.org/Resources/EmpiricalEvaluation/]
-- (Benchmarking Crimes)[https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html]
+- [ACM SIGPLAN Empirical Evaluation Guidelines](https://sigplan.org/Resources/EmpiricalEvaluation/)
+- [Benchmarking Crimes](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html)
 
 ### Supplementary Material
 
