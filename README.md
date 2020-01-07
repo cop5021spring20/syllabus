@@ -20,7 +20,7 @@ TBD
 
 Static analysis of programs including theoretical and practical limitations, data flow analysis, abstract interpretation, and type and effect systems. Tools to automate program analysis.
 
-This course combines both traditional lecture-style graduate coursework with seminar-style paper-reading and presentation course.
+This course combines both a traditional, lecture-style course with seminar-style graduate course.
 
 ### Learning Outcomes
 
