@@ -43,6 +43,7 @@ This course combines both a traditional, lecture-style course with seminar-style
 - [Cite Seer X](https://citeseerx.ist.psu.edu/index;jsessionid=81E5F613E47501F8125E42F61B7940DD)
 - [ACM SIGPLAN OpenTOC](http://www.sigplan.org/OpenTOC/)
 - [ACM SIGSOFT OpenTOC](https://www.sigsoft.org/resources/opentoc.html)
+- [CSRankings](http://csrankings.org/)
 
 ### Empirical Evaluation Resources
 
