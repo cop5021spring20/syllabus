@@ -1,2 +1,2 @@
 - 01/09
-  - [Intro to Program Analysis](https://crypto.stanford.edu/cs155old/cs155-spring16/lectures/04-program-tools.pdf) |
+  - [Intro to Program Analysis](https://crypto.stanford.edu/cs155old/cs155-spring16/lectures/04-program-tools.pdf)
