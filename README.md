@@ -12,7 +12,24 @@
 
 ## Office Hours
 
-TBD
+- Tuesdays 11:00am-12:00pm, HEC-239
+- Thursdays 1:30pm-2:30pm, HEC-239
+- By appointment if needed
+- No office hours: 
+
+## Schedule
+
+Class: Tuesday/Thursday 12:00-13:15 HPA1-O110
+
+Dates: 01/07-04/16
+
+Final exam period (project presentations):  4/23 10am-12:50pm
+
+No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break)
+
+[Lectures](lectures.md)
+
+[Problem sets and readings](homework.md)
 
 ## Course Info
 
@@ -88,31 +105,9 @@ Project ideas:
 ### Supplementary Material
 
 - Principles of Programming Analysis by Flemming Nielson, Hanne Riis Nielson, and Chris Hankin
+- Advanced Compiler Design and Implementation  by Steven Muchnich. Morgan Kaufman, 1997
 - Compilers: Principles, Techniques, & Tools, Second Edition by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. Addison Wesley, 2007
 - The Practice of Programming by Brian W. Kernighan and Rob Pike. https://www.cs.princeton.edu/~bwk/tpop.webpage/
-
-## Schedule
-
-Class: Tuesday/Thursday 12:00-13:15 HPA1-O110
-
-Dates: 01/07-04/16
-
-Final exam period (project presentations):  4/23 10am-12:50pm
-
-No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break)
-
-### Lectures
-
-| Date          |               |
-| ------------- |:-------------:|
-| 01/09         | [Intro to Program Analysis](https://crypto.stanford.edu/cs155old/cs155-spring16/lectures/04-program-tools.pdf) |
-
-
-### Problem sets and readings
-
-| Due           |               |
-| ------------- |:-------------:|
-| 01/14         | [What is Soundness in Static Analysis?](http://www.pl-enthusiast.net/2017/10/23/what-is-soundness-in-static-analysis/) |
 
 ## Grading Scheme
 
