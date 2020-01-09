@@ -68,17 +68,39 @@ No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break)
 
 ### Lecture Topics
 
-- Classic compiler optimization
+- Abstract syntax trees (ASTs)
+- Control-flow graphcs (CFGs)
+- Program dependence graphs (PDGs)
+- Static single-assignment (SSA) form
+- Classic compiler optimizations
 - Type analysis
 - Data-flow analysis
+- IFDS data-flow framework
 - Path-, flow-, and context-sensitive analysis
 - Pointer analysis
+- Taint analysis
 - Interprocedural analysis
 - Abstract interpretation
 - Automated theorem provers
 - Bug-finding
 - Program analysis for security
 - Analysis of configurable software
+
+
+## Homework
+
+Be prepared for at least one problem set or reading per class
+
+## Project
+
+Each student will complete there own unique project.
+
+Project ideas:
+
+- Implement an analysis
+- Describe and demonstrate a tool
+- Replicate a paper's evaluation
+- Write a formal proof
 
 ## Grading Scheme
 
