@@ -22,6 +22,21 @@ Static analysis of programs including theoretical and practical limitations, dat
 
 This course combines both a traditional, lecture-style course with seminar-style graduate course.
 
+### Homework and readings
+
+Be prepared for at least one problem set or reading per class
+
+### Project
+
+Each student will complete there own unique project.
+
+Project ideas:
+
+- Implement an analysis
+- Describe and demonstrate a tool
+- Replicate a paper's evaluation
+- Write a formal proof
+
 ### Learning Outcomes
 
 - Understanding of major static program analysis techniques
@@ -87,20 +102,11 @@ No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break)
 - Analysis of configurable software
 
 
-## Homework
+### Problem sets and readings
 
-Be prepared for at least one problem set or reading per class
-
-## Project
-
-Each student will complete there own unique project.
-
-Project ideas:
-
-- Implement an analysis
-- Describe and demonstrate a tool
-- Replicate a paper's evaluation
-- Write a formal proof
+| Due           |               |
+| ------------- |:-------------:|
+| 01/14         | [What is Soundness in Static Analysis?](http://www.pl-enthusiast.net/2017/10/23/what-is-soundness-in-static-analysis/) |
 
 ## Grading Scheme
 
