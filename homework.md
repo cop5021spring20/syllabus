@@ -1,3 +1,6 @@
+- For 01/21
+  - [Type Systems](http://lucacardelli.name/Papers/TypeSystems.pdf) by Cardelli
+  - SPA chapter 3
 - For 01/16
   - Structural analysis (Muchnich 7.7)
   - SPA chapters 1 and 2
