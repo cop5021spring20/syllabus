@@ -1,7 +1,7 @@
 - For 01/23
   - Tutorials on paper reading
     - Watch [this video](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)
-    - Go over these brief tutorials on reading/writing academic papers: [this](https://courses.cs.washington.edu/courses/cse561/02sp/reviews.pdf) and [this](http://www.armandofox.com/for-students/advice-for-paper-writing)  (more optional resources [here](https://paulgazzillo.com/links/)
+    - Go over these brief tutorials on reading/writing academic papers: [this](https://courses.cs.washington.edu/courses/cse561/02sp/reviews.pdf) and [this](http://www.armandofox.com/for-students/advice-for-paper-writing)  (more optional resources [here](https://paulgazzillo.com/links/))
   - [A Theory of Type Qualifiers](https://www.cs.tufts.edu/~jfoster/papers/pldi99.pdf)
   - SPA Chapter 4
 - For 01/21
