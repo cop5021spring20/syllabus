@@ -1,3 +1,6 @@
+- 01/23 Types
+  - [Slides](https://cs.au.dk/~amoeller/spa/2-type-analysis.pdf)
+ 
 - 01/21 Types
   - [Slides](https://cs.au.dk/~amoeller/spa/2-type-analysis.pdf)
  
