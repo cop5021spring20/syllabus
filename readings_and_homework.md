@@ -1,0 +1,17 @@
+- For 01/23
+  - Tutorials on paper reading
+    - Watch [this video](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)
+    - Go over these brief tutorials on reading/writing academic papers: [this](https://courses.cs.washington.edu/courses/cse561/02sp/reviews.pdf) and [this](http://www.armandofox.com/for-students/advice-for-paper-writing)  (more optional resources [here](https://paulgazzillo.com/links/))
+  - [A Theory of Type Qualifiers](https://www.cs.tufts.edu/~jfoster/papers/pldi99.pdf)
+    - (Optional) [Cqual++ documentation](http://dsw.users.sonic.net/oink/qual.html)
+  - SPA Chapter 4
+  - (Optional) [Why Pascal is not My Favorite Programming Language](https://www.lysator.liu.se/c/bwk-on-pascal.html)
+- For 01/21
+  - [Type Systems](http://lucacardelli.name/Papers/TypeSystems.pdf) by Cardelli
+  - SPA chapter 3
+- For 01/16
+  - Structural analysis (Muchnich 7.7)
+  - SPA chapters 1 and 2
+- For 01/14
+  - [What is Soundness in Static Analysis?](http://www.pl-enthusiast.net/2017/10/23/what-is-soundness-in-static-analysis/)
+  - [In Defense of Soundiness: A Manifesto](http://soundiness.org/documents/InDefense2.pdf)

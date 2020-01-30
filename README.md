@@ -29,7 +29,7 @@ No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break)
 
 [Lectures](lectures.md)
 
-[Problem sets and readings](homework.md)
+[Problem sets and readings](readings_and_homework.md)
 
 ## Course Info
 
