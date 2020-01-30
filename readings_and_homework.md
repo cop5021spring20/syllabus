@@ -1,3 +1,6 @@
+- For 01/28
+  - Read section 5.1-5.7 of SPA
+  - Watch [this talk](https://www.youtube.com/watch?v=dCuZkaaou0Q) by Guy Steele.
 - For 01/23
   - Tutorials on paper reading
     - Watch [this video](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)
