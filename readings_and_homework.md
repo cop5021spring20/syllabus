@@ -1,3 +1,12 @@
+- For 02/11
+  - Read the paper on [FlowDroid](https://www.bodden.de/pubs/far+14flowdroid.pdf
+).
+  - Create examples the signal true and false alarms in the clang static analyzer.
+- For 02/06
+  - Read the [secret sauce paper](https://bodden.de/pubs/bodden18secret.pdf).
+- For 02/04
+  - Read the rest of chapter 5 of SPA.
+  - Read the [graph reachability paper](https://research.cs.wisc.edu/wpis/papers/popl95.pdf)
 - For 01/28
   - Read section 5.1-5.7 of SPA
   - Watch [this talk](https://www.youtube.com/watch?v=dCuZkaaou0Q) by Guy Steele.
