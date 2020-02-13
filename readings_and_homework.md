@@ -1,3 +1,5 @@
+- For 02/13
+  - Read the paper on [information flow analysis](https://users.cis.fiu.edu/~smithg/papers/sif06.pdf)
 - For 02/11
   - Read the paper on [FlowDroid](https://www.bodden.de/pubs/far+14flowdroid.pdf
 ).
