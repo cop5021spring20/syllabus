@@ -1,3 +1,7 @@
+- For 02/20
+  - Read this paper on [points-to analysis](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/hind-paste01.pdf)
+- For 02/18
+  - Read this paper on [timing channel detection](https://paulgazzillo.com/papers/pldi17.pdf)
 - For 02/13
   - Read the paper on [information flow analysis](https://users.cis.fiu.edu/~smithg/papers/sif06.pdf)
 - For 02/11
