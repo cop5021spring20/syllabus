@@ -1,3 +1,18 @@
+- 02/25
+  - [Pointer Analysis](https://www.seas.harvard.edu/courses/cs252/2011sp/slides/Lec06-PointerAnalysis.pdf)
+
+- 02/20
+  - [Timing Channel Slides](https://paulgazzillo.com/papers/pldi17_slides.pdf)
+
+- 02/18
+  - [Taint Analysis Slides](https://www.cs.umd.edu/class/spring2019/cmsc414/slides/program-analysis.pdf)
+
+- 02/13
+  - [Taint Analysis Slides](https://www.cs.umd.edu/class/spring2019/cmsc414/slides/program-analysis.pdf)
+
+- 02/11
+  - Flowdroid discussion
+
 - 02/06 Data-Flow Analysis, Symbolic Execution
   - [SPA Slides](https://cs.au.dk/~amoeller/spa/5-widening-and-narrowing.pdf)
   - [SymEx Slides](http://www.cs.umd.edu/class/fall2012/cmsc498L/materials/se.pdf)
