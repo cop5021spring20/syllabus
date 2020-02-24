@@ -12,10 +12,9 @@
 
 ## Office Hours
 
-- Tuesdays 11:00am-12:00pm, HEC-239
-- Thursdays 1:30pm-2:30pm, HEC-239
+- Tuesdays 11:00am-12:00pm, HEC-239 (except)
 - By appointment if needed
-- No office hours: 
+- No office hours:  02/27, 03/10, 03/12, 03/24, 03/26
 
 ## Schedule
 
@@ -25,7 +24,7 @@ Dates: 01/07-04/16
 
 Final exam period (project presentations):  4/23 10am-12:50pm
 
-No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break)
+No lecture: 02/27 (instructor travel), 03/10 and 03/12 (spring break), 03/24 and 03/26 (instructor travel)
 
 [Lectures](lectures.md)
 
