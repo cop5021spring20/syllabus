@@ -6,3 +6,6 @@ Additional papers and resources:
 - [Exploring and Enforcing Security Guarantees via Program Dependence Graphs](https://people.seas.harvard.edu/~chong/pubs/pldi15-pidgin.pdf)
 - [SSA is Functional Programming](https://dl.acm.org/doi/10.1145/278283.278285)
 - [Automatic numeric abstractions for heap-manipulating programs](https://dl.acm.org/doi/abs/10.1145/1707801.1706326)
+- [Program Analysis and Specialization for the C Programming Language](https://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.6502)
+- [Points-to Analysis in Almost Linear Time](https://dl.acm.org/doi/10.1145/237721.237727)
+- [Separation logic](https://dl.acm.org/doi/10.1145/3211968)
