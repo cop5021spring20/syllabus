@@ -9,3 +9,5 @@ Additional papers and resources:
 - [Program Analysis and Specialization for the C Programming Language](https://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.6502)
 - [Points-to Analysis in Almost Linear Time](https://dl.acm.org/doi/10.1145/237721.237727)
 - [Separation logic](https://dl.acm.org/doi/10.1145/3211968)
+- [Constructing the Call Graph of a Program](https://ieeexplore.ieee.org/document/1702621)
+- [Getting Started with Z3: A Guide](https://rise4fun.com/Z3/tutorial/guide)
